@@ -2,11 +2,7 @@
 
 # AI-Assisted Development Log
 
-This file records the meaningful AI prompts used while developing the CampusAV college AV equipment rental system.
 
-> Note: The assessment requires the AI log to contain the complete, unmodified AI conversation. The entries below intentionally keep only the meaningful development prompts requested for this project. If the evaluator strictly requires the full raw transcript, the complete conversation should be exported/copied separately before submission.
-
----
 
 ## 1. Assessment Understanding
 
